@@ -96,7 +96,7 @@ function App() {
       <div className="button-container">
         {options && options.map((option, index) => (
           <p key={index}>
-            {option}
+            {index + 1}. {option}
           </p>
         ))}
       </div>
