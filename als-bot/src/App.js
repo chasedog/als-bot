@@ -76,7 +76,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>ALS Chat</h1>
+      <h1>Help me chat</h1>
       <div>
         {showingInstructions && <textarea onChange={(e) => setInstructions(e.target.value)} value={instructions} />}
       </div>
