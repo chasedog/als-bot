@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/als-bot/static/css/main.83c54250.css",
-    "main.js": "/als-bot/static/js/main.e25db94a.js",
+    "main.js": "/als-bot/static/js/main.c78b9420.js",
     "static/js/453.81617c6e.chunk.js": "/als-bot/static/js/453.81617c6e.chunk.js",
     "index.html": "/als-bot/index.html",
     "main.83c54250.css.map": "/als-bot/static/css/main.83c54250.css.map",
-    "main.e25db94a.js.map": "/als-bot/static/js/main.e25db94a.js.map",
+    "main.c78b9420.js.map": "/als-bot/static/js/main.c78b9420.js.map",
     "453.81617c6e.chunk.js.map": "/als-bot/static/js/453.81617c6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83c54250.css",
-    "static/js/main.e25db94a.js"
+    "static/js/main.c78b9420.js"
   ]
 }
